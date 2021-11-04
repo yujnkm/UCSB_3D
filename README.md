@@ -22,8 +22,13 @@ All 3D models are optimized as Unity environments and run well on any target dev
 
 
 # Getting Started
-Add a Readme / Tutorial to the inspector tab of your Unity project.
+Follow these instructions to install necessary software. Don't forgot to make the modifications to the UWP workload (i.e. Windows 10 SDK 18632) which is required to build this project. These instructions have been tested on the following versions:
 
+* Unity 2020.3.20f1 LTS
+* Windows 10 SDK 18632
+* Visual Studio Community 2019 ver. 16.11.4
+* Once installed, clone this repo and open the project in Unity or Unity Hub.
+* Item 1
 
 1) Kirby Crossing [Google Map (34.41471, -119.84060)](https://www.google.com/maps/place/34%C2%B024'53.0%22N+119%C2%B050'26.2%22W)
 34°24'53.0"N 119°50'26.2"W 
