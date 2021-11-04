@@ -30,6 +30,8 @@ Follow these instructions to install necessary software. Don't forgot to make th
 * Once installed, clone this repo and open the project in Unity or Unity Hub.
 * Item 1
 
+The main scene can be found under Assets > PersonalAR > Scenes.
+
 1) Kirby Crossing [Google Map (34.41471, -119.84060)](https://www.google.com/maps/place/34%C2%B024'53.0%22N+119%C2%B050'26.2%22W)
 34°24'53.0"N 119°50'26.2"W 
 Google Map (34.41471, -119.84060)
