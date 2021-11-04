@@ -3,7 +3,7 @@
   src="ucsb_logo.png?raw=true"
   alt="Screenshot of Unity 2018 showing the inspector with Readme content."
   width="1700"
-  height="75"
+  height="70"
 />
 
 
