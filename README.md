@@ -103,6 +103,6 @@ For example, this section was written using a text editor and uses the Yaml “|
 
 ## Exporting Packages
 
-## License Agreements
+## License & Citation
 
 Read the [license](LICENSE.md).
