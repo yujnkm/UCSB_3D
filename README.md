@@ -1,13 +1,13 @@
 # UCSB_3D
-The project includes 3D models of three locations at the University of California, Santa Barbara.  
-
 <img
   src="ucsb_logo.png?raw=true"
   alt="Screenshot of Unity 2018 showing the inspector with Readme content."
-  width="1743"
-  height="130"
+  width="1700"
+  height="75"
 />
 
+
+The project includes 3D models of three locations at the University of California, Santa Barbara.  
 
 LiDAR scanned the physical enviroment and post-processed three UC Santa Barbara locations to run in Unity game engine software. 
 
@@ -17,7 +17,12 @@ LiDAR scanned the physical enviroment and post-processed three UC Santa Barbara 
 
 3) Life Science [Google Map (34.41207,-119.84425)](https://www.google.com/maps/place/34%C2%B024'43.5%22N+119%C2%B050'37.9%22W)
 
+All 3D models are optimized as Unity environments and run well on any target device.
 
+
+
+# Getting Started
+Add a Readme / Tutorial to the inspector tab of your Unity project.
 
 
 1) Kirby Crossing [Google Map (34.41471, -119.84060)](https://www.google.com/maps/place/34%C2%B024'53.0%22N+119%C2%B050'26.2%22W)
@@ -35,10 +40,8 @@ https://www.google.com/maps/place/34%C2%B024'58.7%22N+119%C2%B050'50.3%22W
 Google Map (34.41207,-119.84425)
 https://www.google.com/maps/place/34%C2%B024'43.5%22N+119%C2%B050'37.9%22W
 
+All 3D models are optimized as Unity environments and run well on any target device.
 
-# Location overview
-
-Add a Readme / Tutorial to the inspector tab of your Unity project.
 
 <img
   src="readme-screenshot.png?raw=true"
@@ -47,7 +50,7 @@ Add a Readme / Tutorial to the inspector tab of your Unity project.
   height="336"
 />
 
-## Usage
+## 1. Kirby Crossing
 
 Download this [project’s Unity package](build/Readme.unitypackage?raw=true).
 
@@ -61,8 +64,7 @@ Package” → “Custom Package” from the Unity editor’s menus.
   height="244"
 />
 
-## How to edit the readme’s contents
-
+## 2. Student Affairs
 First make sure the Readme is shown in the Unity editor “Inspector” tab. Then
 the file can be edited by clicking on the drop-down menu to the right of the
 “Inspector” tab and picking the “Debug” option.
@@ -87,7 +89,7 @@ You can use any PNG file (and file name) for the icon.
 3. Then open the “debug” version of the Readme inspector and drag the new icon
    into the “Icon” field.
 
-## Advanced editing technique
+## 3. Life Science
 
 Adding long text to the “text” field in Unity’s “debug” screen is cumbersome.
 
@@ -99,6 +101,8 @@ For example, this section was written using a text editor and uses the Yaml “|
 
 [Learn about Yaml syntax](http://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
 
-## License
+## Exporting Packages
+
+## License Agreements
 
 Read the [license](LICENSE.md).
