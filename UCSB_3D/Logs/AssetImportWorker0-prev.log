@@ -1,0 +1,212 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 32710 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/yujnkm/repo/UCSB
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59659
+Successfully changed project path to: C:/Users/yujnkm/repo/UCSB
+C:/Users/yujnkm/repo/UCSB
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/yujnkm/repo/UCSB/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   
+    VRAM:     6097 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56900
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001869 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.101 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.053 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.1 MB.
+System memory in use after: 66.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1825.
+Total: 2.125300 ms (FindLiveObjects: 0.174900 ms CreateObjectMapping: 0.092600 ms MarkObjects: 1.783300 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UCSB_model.unity
+  artifactKey: Guid(4aed294e23d448548bda628ff8d524db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UCSB_model.unity using Guid(4aed294e23d448548bda628ff8d524db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27856c97eab91f52f159497586272d20') in 0.017863 seconds
+  Import took 0.020224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/KirbyCrossing.png
+  artifactKey: Guid(f79d38ea3974a314e9d5d58eee996d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/KirbyCrossing.png using Guid(f79d38ea3974a314e9d5d58eee996d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ceda512d3f1f17ba1297337fd677ad') in 0.068058 seconds
+  Import took 0.070291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.775512 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(dc140304358f7ba4c9afcfe76db3ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(dc140304358f7ba4c9afcfe76db3ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b1d1da2c4dafe55469c562ffbf8b192') in 0.006390 seconds
+  Import took 0.008937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.258375 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.006665 seconds
+  Import took 0.009400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.350342 seconds.
+  path: Assets/Scenes/KirbyCrossing.unity
+  artifactKey: Guid(4aed294e23d448548bda628ff8d524db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/KirbyCrossing.unity using Guid(4aed294e23d448548bda628ff8d524db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c83051398a2dbab1cd6796efebe6e6') in 0.006921 seconds
+  Import took 0.009468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.027625 seconds.
+  path: Assets/Life Science-0005.png
+  artifactKey: Guid(9e7bdb183fdc0e442bc9906f5a6212a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Life Science-0005.png using Guid(9e7bdb183fdc0e442bc9906f5a6212a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b316fc77b3e4318a605564ae10f03226') in 0.041662 seconds
+  Import took 0.045975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/LifeScience_PNG.png
+  artifactKey: Guid(103b10988f57c7e44b40d6ceca862dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LifeScience_PNG.png using Guid(103b10988f57c7e44b40d6ceca862dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f271ceec4e90cb1072c257e097f78773') in 0.028566 seconds
+  Import took 0.031982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Life Science-0005.png
+  artifactKey: Guid(9e7bdb183fdc0e442bc9906f5a6212a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Life Science-0005.png using Guid(9e7bdb183fdc0e442bc9906f5a6212a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b316fc77b3e4318a605564ae10f03226') in 0.007898 seconds
+  Import took 0.011775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/LifeS.png
+  artifactKey: Guid(49175c481c20fe8459aa48b432670253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LifeS.png using Guid(49175c481c20fe8459aa48b432670253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3d0f873a803cc585887ee8e1057d35') in 0.014269 seconds
+  Import took 0.017297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Life Science-005.png
+  artifactKey: Guid(5b1e613ab2ae52440845675421811a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Life Science-005.png using Guid(5b1e613ab2ae52440845675421811a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0af7194a6c6e2fcfe6197291488053') in 0.014803 seconds
+  Import took 0.018325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.972379 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.009989 seconds
+  Import took 0.013303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.227860 seconds.
+  path: Assets/Model
+  artifactKey: Guid(b67a1c3c299d80e409b96642132b7f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model using Guid(b67a1c3c299d80e409b96642132b7f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5401d1731965d964434cd398d16d7216') in 0.006913 seconds
+  Import took 0.009232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.158266 seconds.
+  path: Assets/Model/model.unity
+  artifactKey: Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/model.unity using Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aec15038c57344a147780a197656c17') in 0.007010 seconds
+  Import took 0.010048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.816137 seconds.
+  path: Assets/Scenes/NobelHall.unity
+  artifactKey: Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NobelHall.unity using Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce99ad35084930c94450fe7d14d0cad') in 0.006762 seconds
+  Import took 0.009104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.446139 seconds.
+  path: Assets/VisitorsCenter_final_03.png
+  artifactKey: Guid(6056b26d65819ec40949d87f313d4dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisitorsCenter_final_03.png using Guid(6056b26d65819ec40949d87f313d4dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daa5e813adaace5364499a27554616f') in 0.016247 seconds
+  Import took 0.018831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.721590 seconds.
+  path: Assets/Model/model2.unity
+  artifactKey: Guid(d72d3218754aa2545957b639cef0a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/model2.unity using Guid(d72d3218754aa2545957b639cef0a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6382e649699f6d5997e461dba04e560b') in 0.008570 seconds
+  Import took 0.011553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.914184 seconds.
+  path: Assets/Scenes/StudentAffairs.unity
+  artifactKey: Guid(d72d3218754aa2545957b639cef0a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StudentAffairs.unity using Guid(d72d3218754aa2545957b639cef0a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97aaa3c7252d5056a67e70a435641354') in 0.006770 seconds
+  Import took 0.009353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.361494 seconds.
+  path: Assets/Scenes/NobelHall.unity
+  artifactKey: Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NobelHall.unity using Guid(81a27cb1f771b6f478f3c08dd329df4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33eb0e32ed89decadbe43cd7bbace3d1') in 0.002479 seconds
+  Import took 0.005239 seconds .
+
