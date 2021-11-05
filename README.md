@@ -32,7 +32,6 @@ The main scene can be found under UCSB_3D > Assets > Scenes.
 
 ## 1. Kirby Crossing
 
-Kirby Crossing
 * 34°24'53.0"N 119°50'26.2"W 
 * [Google Map (34.41471, -119.84060)](https://www.google.com/maps/place/34%C2%B024'53.0%22N+119%C2%B050'26.2%22W) Same link lised above.
 * Unity package file size: 258.962 KB
@@ -51,7 +50,7 @@ This model can be found under UCSB_3D > Assets > Scenes > KirbyCrossing.
 />
 
 ## 2. Student Affairs
-Student Affairs
+
 * 34°24'58.7"N 119°50'50.3"W
 * [Google Map (34.41630,-119.84730)](https://www.google.com/maps/place/34%C2%B024'58.7%22N+119%C2%B050'50.3%22W) Same link lised above.
 * Unity package file size: 37,895 KB
@@ -74,10 +73,19 @@ This model can be found under UCSB_3D > Assets > Scenes > StudentAffairs
 
 ## 3. Life Science
 
+* 34°24'43.5"N 119°50'37.9"W
+* [Google Map (34.41207,-119.84425)](https://www.google.com/maps/place/34%C2%B024'43.5%22N+119%C2%B050'37.9%22W) Same link lised above.
+* Unity package file size: 97,896 KB
+
+UCSB buildings near by: Nobel Hall, Department of Molecular, Cellular & Developmental Biology, Biological Sciences Instructional Facility
+
+
+This model can be found under UCSB_3D > Assets > Scenes > NobelHall
+
 Life Science/ Nobel Hall
-34°24'43.5"N 119°50'37.9"W
-Google Map (34.41207,-119.84425)
-https://www.google.com/maps/place/34%C2%B024'43.5%22N+119%C2%B050'37.9%22W
+
+Google Map ()
+
 
 <img
   src="3_1.png?raw=true"
