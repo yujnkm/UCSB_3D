@@ -51,10 +51,19 @@ This model can be found under UCSB_3D > Assets > Scenes > KirbyCrossing.
 />
 
 ## 2. Student Affairs
-Student Affairs/ Administrative Services
-34°24'58.7"N 119°50'50.3"W
-Google Map (34.41630,-119.84730)
-https://www.google.com/maps/place/34%C2%B024'58.7%22N+119%C2%B050'50.3%22W
+Student Affairs
+* 34°24'58.7"N 119°50'50.3"W
+* [Google Map (34.41630,-119.84730)](https://www.google.com/maps/place/34%C2%B024'58.7%22N+119%C2%B050'50.3%22W) Same link lised above.
+* Unity package file size: 37,895 KB
+
+UCSB buildings near by: Administrative Services, Office of the Registrar, Office of Financial Aid and Scholarships, UCSB Student Information Systems & Technology
+
+
+This model can be found under UCSB_3D > Assets > Scenes > StudentAffairs
+
+
+
+
 
 <img
   src="2_1.png?raw=true"
