@@ -111,5 +111,14 @@ For example, this section was written using a text editor and uses the Yaml “|
 ## Exporting Packages
 
 ## License & Citation
+This repository contains models we constructed with a lot of care and effort. If you use the 3D model in your research, please cite us using ***Cite this repository*** found in the repository landing page.
+
+<img
+  src="5_1.png?raw=true"
+  alt="How to cite our work."
+  width="1000"
+  height="470"
+/>
+
 
 Read the [license](LICENSE.md).
