@@ -46,21 +46,21 @@ This model can be found under UCSB_3D > Assets > Scenes > KirbyCrossing.
   src="1_1.png?raw=true"
   alt="3D model from Unity Scene."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="1_2.png?raw=true"
   alt="FOV from the Unity Scene."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="1_3.png?raw=true"
   alt="Map location shown in Google map."
   width="880"
-  height="500"
+  height="450"
 />
 
 
@@ -83,21 +83,21 @@ This model can be found under UCSB_3D > Assets > Scenes > StudentAffairs
   src="2_1.png?raw=true"
   alt="How to export to Unity package."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="2_2.png?raw=true"
   alt="FOV from the Unity Scene."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="2_3.png?raw=true"
   alt="Map location shown in Google map."
   width="880"
-  height="500"
+  height="450"
 />
 
 ## 3. Life Science
@@ -117,21 +117,21 @@ This model can be found under UCSB_3D > Assets > Scenes > NobelHall
   src="3_1.png?raw=true"
   alt="How to export to Unity package."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="3_2.png?raw=true"
   alt="FOV from the Unity Scene."
   width="880"
-  height="500"
+  height="450"
 />
 
 <img
   src="3_3.png?raw=true"
   alt="Map location shown in Google map."
   width="880"
-  height="500"
+  height="450"
 />
 
 ## Exporting Packages
