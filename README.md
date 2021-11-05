@@ -46,7 +46,7 @@ This model can be found under UCSB_3D > Assets > Scenes > KirbyCrossing.
   src="1_1.png?raw=true"
   alt="How to export to Unity package."
   width="880"
-  height="450"
+  height="500"
 />
 
 ## 2. Student Affairs
@@ -68,7 +68,7 @@ This model can be found under UCSB_3D > Assets > Scenes > StudentAffairs
   src="2_1.png?raw=true"
   alt="How to export to Unity package."
   width="880"
-  height="450"
+  height="500"
 />
 
 ## 3. Life Science
@@ -82,16 +82,13 @@ UCSB buildings near by: Nobel Hall, Department of Molecular, Cellular & Developm
 
 This model can be found under UCSB_3D > Assets > Scenes > NobelHall
 
-Life Science/ Nobel Hall
-
-Google Map ()
 
 
 <img
   src="3_1.png?raw=true"
   alt="How to export to Unity package."
   width="880"
-  height="450"
+  height="500"
 />
 
 
