@@ -44,10 +44,25 @@ This model can be found under UCSB_3D > Assets > Scenes > KirbyCrossing.
 
 <img
   src="1_1.png?raw=true"
-  alt="How to export to Unity package."
+  alt="3D model from Unity Scene."
   width="880"
   height="500"
 />
+
+<img
+  src="1_2.png?raw=true"
+  alt="FOV from the Unity Scene."
+  width="880"
+  height="500"
+/>
+
+<img
+  src="1_3.png?raw=true"
+  alt="Map location shown in Google map."
+  width="880"
+  height="500"
+/>
+
 
 ## 2. Student Affairs
 
@@ -67,6 +82,20 @@ This model can be found under UCSB_3D > Assets > Scenes > StudentAffairs
 <img
   src="2_1.png?raw=true"
   alt="How to export to Unity package."
+  width="880"
+  height="500"
+/>
+
+<img
+  src="2_2.png?raw=true"
+  alt="FOV from the Unity Scene."
+  width="880"
+  height="500"
+/>
+
+<img
+  src="2_3.png?raw=true"
+  alt="Map location shown in Google map."
   width="880"
   height="500"
 />
@@ -91,7 +120,19 @@ This model can be found under UCSB_3D > Assets > Scenes > NobelHall
   height="500"
 />
 
+<img
+  src="3_2.png?raw=true"
+  alt="FOV from the Unity Scene."
+  width="880"
+  height="500"
+/>
 
+<img
+  src="3_3.png?raw=true"
+  alt="Map location shown in Google map."
+  width="880"
+  height="500"
+/>
 
 ## Exporting Packages
 All three models can be found under (UCSB_3D > Assets > Scenes) the Scenes folder. Each Unity scene contains each model. You can proceed to gererate standalone Unity package by  right clicking the scene from the Unity editor’s menus and select ***Export Package...***
