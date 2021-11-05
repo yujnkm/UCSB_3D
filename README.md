@@ -2,7 +2,7 @@
 <img
   src="ucsb_logo.png?raw=true"
   alt="Screenshot of Unity 2018 showing the inspector with Readme content."
-  width="1700"
+  width="880"
   height="70"
 />
 
@@ -109,6 +109,15 @@ For example, this section was written using a text editor and uses the Yaml “|
 [Learn about Yaml syntax](http://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
 
 ## Exporting Packages
+All three models can be found under (UCSB_3D > Assets > Scenes) the Scenes folder. Each Unity scene contains each model. You can proceed to gererate standalone Unity package by  right clicking the scene from the Unity editor’s menus and select ***Export Package...***
+<img
+  src="4_1.png?raw=true"
+  alt="How to cite our work."
+  width="880"
+  height="400"
+/>
+
+
 
 ## License & Citation
 This repository contains models we constructed with a lot of care and effort. If you use the 3D model in your research, please cite us using ***Cite this repository*** found in the repository landing page.
@@ -116,8 +125,8 @@ This repository contains models we constructed with a lot of care and effort. If
 <img
   src="5_1.png?raw=true"
   alt="How to cite our work."
-  width="1000"
-  height="470"
+  width="880"
+  height="400"
 />
 
 
