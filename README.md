@@ -156,5 +156,7 @@ This repository contains models we constructed with a lot of care and effort. If
   height="400"
 />
 
+Kim, Y., & Kumaran, R. (2021). UCSB_3D Campus (Version 1.0.1) [Computer software]. available at: https://github.com/yujnkm/UCSB_3D (accessed 19 May 2022).
+https://doi.org/10.5281/zenodo.6565136
 
 Read the [license](LICENSE.md).
