@@ -8,7 +8,7 @@ authors:
   given-names: "Radha"
   orcid: "https://orcid.org/0000-0001-7161-3048"
 title: "UCSB_3D"
-version: 1.0.0
-doi:
+version: 1.0.1
+doi: 10.5281/zenodo.6565136
 date-released: 2021-11-04
-url: "https://github.com/ucsb/UCSB_3D"
+url: "https://github.com/yujnkm/UCSB_3D"
